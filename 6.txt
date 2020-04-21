@@ -3,4 +3,8 @@ Added some change 4.
 Learn.
 1
 6
-
+7
+HI THere
+This is for git add -p command.
+Lets see how its work.
+Commit
