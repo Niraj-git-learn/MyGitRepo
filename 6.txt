@@ -6,4 +6,4 @@ Learn.
 7
 Apple
 Orange
-Banana is good a fruit.
+Banana is good fruit.
