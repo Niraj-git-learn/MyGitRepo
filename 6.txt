@@ -7,4 +7,3 @@ Learn.
 Apple
 Orange
 Banana
-Guava
