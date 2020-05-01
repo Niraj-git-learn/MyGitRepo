@@ -7,3 +7,4 @@ Learn.
 Apple
 Orange
 Banana is a good fruit.
+Fruit tastes good.
