@@ -12,3 +12,4 @@ Banana is a good fruit.
 4
 Fruit tastes good.
 A
+B
