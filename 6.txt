@@ -7,7 +7,9 @@ Learn.
 Apple
 Orange
 Banana is a good fruit.
+<<<<<<< HEAD
 Fruit tastes good.
 2
 3
 4
+Fruit tastes good.
